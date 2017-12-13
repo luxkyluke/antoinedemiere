@@ -1,31 +1,14 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Antoine DEMIERE | Portefolio</title>
-    <link href="./styles/style.css" rel="stylesheet">
-	<link href="./styles/style.css" rel="stylesheet"></head>
-	<script>
-		(function(){
-			var redirect = sessionStorage.redirect;
-			delete sessionStorage.redirect;
-			if (redirect && redirect != location.href) {
-				history.replaceState(null, null, redirect);
-				// REMOVE THIS - just showing the redirect route in the UI
-				//document.body.setAttribute('message', 'This page was redirected by 404.html, from the route: ' + redirect);
-			}
-			else {
-				// REMOVE THIS - just showing the redirect route in the UI
-				//document.body.setAttribute('message', 'This page was loaded directly from the index.html file');
-			}
-		})();
-	</script>
+</head>
 <body>
-	<div id="root"></div>
+	<div id="app"></div>
 	<canvas id="scene"></canvas>
-	<script type="text/javascript" src="bundle.js"></script></body>
-	
-
+	<script src="app/bundle.js"></script>
+</body>
 </html>

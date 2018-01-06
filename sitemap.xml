@@ -13,6 +13,18 @@
     <loc>http://www.antoinedemiere.com/#/about</loc>
   </url>
   <url>
-    <loc>http://www.antoinedemiere.com/#/work/*</loc>
+    <loc>http://www.antoinedemiere.com/#/work/0</loc>
+  </url>
+  <url>
+    <loc>http://www.antoinedemiere.com/#/work/1</loc>
+  </url>
+  <url>
+    <loc>http://www.antoinedemiere.com/#/work/2</loc>
+  </url>
+  <url>
+    <loc>http://www.antoinedemiere.com/#/work/3</loc>
+  </url>
+  <url>
+    <loc>http://www.antoinedemiere.com/#/work/4</loc>
   </url>
 </urlset>

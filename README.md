@@ -1,3 +1,2 @@
-# antoinedemiere.github.io
-Portfolio
+# Portfolio
 www.antoinedemiere.com

@@ -7,12 +7,12 @@
     <loc>http://www.antoinedemiere.com/#/</loc>
   </url>
   <url>
-    <loc>http://www.antoinedemiere.com/#/projects</loc>
+    <loc>http://www.antoinedemiere.com/#/work</loc>
   </url>
   <url>
     <loc>http://www.antoinedemiere.com/#/about</loc>
   </url>
   <url>
-    <loc>http://www.antoinedemiere.com/#/project/*</loc>
+    <loc>http://www.antoinedemiere.com/#/work/*</loc>
   </url>
 </urlset>
